@@ -1,0 +1,22 @@
+{
+  "name": "react-native-nuemorphism-example",
+  "displayName": "Nuemorphism Example",
+  "expo": {
+    "name": "react-native-nuemorphism-example",
+    "slug": "react-native-nuemorphism-example",
+    "description": "Example app for react-native-nuemorphism",
+    "privacy": "public",
+    "version": "1.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
